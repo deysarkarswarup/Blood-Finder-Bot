@@ -72,5 +72,5 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Contact
 
-Blood Finder Bot - [@BloodFinderBot](https://twitter.com/BloodFinderBot)
+Blood Finder Bot - [@BloodFinderBot](https://twitter.com/BloodFinderBot)<br>
 Project Link: [https://github.com/codechella2020/codechella_final_project/](https://github.com/codechella2020/codechella_final_project/)
